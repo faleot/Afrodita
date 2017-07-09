@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaf9dc4e-c63f-4935-aa81-5f1aaa12b79a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/feed.css" afterPath="$PROJECT_DIR$/css/components/feed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/services.css" afterPath="$PROJECT_DIR$/css/components/services.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/style.css" afterPath="$PROJECT_DIR$/css/components/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,51 +14,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="afrodita.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/afrodita.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="108" column="122" lean-forward="false" selection-start-line="108" selection-start-column="122" selection-end-line="108" selection-end-column="122" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/components/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="238" column="19" lean-forward="false" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="afrodita.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/components/afrodita.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/components/services.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feed.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="feed.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/components/feed.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="1955">
               <caret line="200" column="24" lean-forward="false" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -86,7 +52,6 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/components/afrodita.css" />
         <option value="$PROJECT_DIR$/css/layout/fonts.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/admin/css/components/autorization.css" />
         <option value="$PROJECT_DIR$/admin/css/components/style.css" />
         <option value="$PROJECT_DIR$/admin/css/style.css" />
@@ -105,6 +70,7 @@
         <option value="$PROJECT_DIR$/css/components/style.css" />
         <option value="$PROJECT_DIR$/css/components/services.css" />
         <option value="$PROJECT_DIR$/css/components/feed.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -365,12 +331,12 @@
       <updated>1499284628637</updated>
       <workItem from="1499284629773" duration="29071000" />
       <workItem from="1499463201762" duration="2890000" />
-      <workItem from="1499537441756" duration="9386000" />
+      <workItem from="1499537441756" duration="9526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41347000" />
+    <option name="totallyTimeSpent" value="41487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="152" y="49" width="928" height="771" extended-state="0" />
@@ -642,14 +608,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/css/layout/fonts.css" />
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/session.php" />
     <entry file="file://$PROJECT_DIR$/admin/css/components/style.css" />
     <entry file="file://$PROJECT_DIR$/admin/css/components/autorization.css" />
@@ -796,14 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/components/services.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/components/afrodita.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -812,10 +762,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/services.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/components/feed.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="1955">
           <caret line="200" column="24" lean-forward="false" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>

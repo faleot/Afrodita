@@ -1,6 +1,6 @@
 /* Настройка layout */
-@import url(../css/layout/fonts.css);
-@import url(../css/layout/normalize.css);
+@import url(/css/layout/fonts.css);
+@import url(/css/layout/normalize.css);
 
 /* Настройка компонентов */
 @import url(../css/components/style.css);
