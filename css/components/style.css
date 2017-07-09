@@ -108,7 +108,7 @@ li {
     position: absolute;
     top: 40px;
     left: 8px;
-    z-index: 4;
+    z-index: 40;
     visibility: hidden;
     width: 163px;
     height: 70px;
@@ -121,14 +121,13 @@ li {
    content: "";
    position: relative;
    float: right;
-   bottom: 8px;
-   right: 1px;
-   width: 0; 
-   height: 0;
-   border-left: 10px solid transparent;
-   border-right: 10px solid transparent;
-   border-bottom: 10px solid #fff;
-   border-radius: 10px; 
+   bottom: 5px;
+   right: 3.5px;
+   width: 16px;
+   height: 16px;
+    border-radius: 1px;
+    background: white;
+    transform: rotate(-45deg);
 }
 
 .contacts__popup-chedule,
