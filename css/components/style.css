@@ -88,7 +88,13 @@ li {
 
 .contacts__popup {
     position: relative;
+    float: right;
     bottom: 4px;
+    display: inline-block;
+}
+
+.contacts__popup:hover > .contacts__popup-block {
+    right: 0;
 }
 
 .contacts__popup-link {
@@ -107,9 +113,8 @@ li {
 .contacts__popup-block {
     position: absolute;
     top: 40px;
-    left: 8px;
+    right: -9999px;
     z-index: 40;
-    visibility: hidden;
     width: 163px;
     height: 70px;
     background: linear-gradient(to top, #fff 0%, #fff 100%);
@@ -130,6 +135,18 @@ li {
     transform: rotate(-45deg);
 }
 
+.contacts__popup-block:after {
+    content: "";
+    z-index: 10;
+    display: block;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -22px;
+}
+
 .contacts__popup-chedule,
 .contacts__popup-eat{
     margin-left: 20px;
@@ -147,11 +164,7 @@ li {
     font-family: "OpenSans-Bold";
     color: #f89513;
 }
- 
-.contacts__popup-link:hover + .contacts__popup-block,
-.contacts__popup-link:focus + .contacts__popup-block {
-    visibility: visible;
-}
+
 /* ----------Header close---------- */
 
 /* ----------Aside---------- */
