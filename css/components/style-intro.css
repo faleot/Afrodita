@@ -1,0 +1,62 @@
+/* General */
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url(../../fonts/OpenSans-Bold.ttf);
+}
+.intro {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url(../../img/jpg/intro-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.intro::before {
+    position: absolute;
+    content: '';
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.content {
+    position: relative;
+    top: 190px;
+}
+/* General close */
+
+/* Logotype */
+.logo  {
+    margin: 0px auto;
+    padding-bottom: 40px;
+    width: 160px;
+    height: 193px;
+}
+/* Logotype close */
+
+/* Link Buttom */
+.link {
+    margin: 0px auto;
+    width: 172px;
+    height: 45px;
+    border-radius: 5px;
+    background: #f89513;
+}
+.link:hover {
+    background: #131415;
+}
+.link__bottom  {
+    padding-top: 16px;
+    padding-bottom: 0px; 
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-family: "OpenSans-Bold";
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+/* Link buttom close */

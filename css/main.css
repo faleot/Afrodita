@@ -1,0 +1,9 @@
+/* Настройка layout */
+@import url(../css/layout/fonts.css);
+@import url(../css/layout/normalize.css);
+
+/* Настройка компонентов */
+@import url(../css/components/style.css);
+@import url(../css/components/afrodita.css);
+@import url(../css/components/services.css);
+@import url(../css/components/feed.css);
