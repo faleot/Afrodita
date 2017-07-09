@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aaf9dc4e-c63f-4935-aa81-5f1aaa12b79a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sortax Engie/.htaccess" afterPath="$PROJECT_DIR$/Sortax Engie/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sortax Engie/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Sortax Engie/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afrodita.html" afterPath="$PROJECT_DIR$/afrodita.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/style.css" afterPath="$PROJECT_DIR$/css/components/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/feed.css" afterPath="$PROJECT_DIR$/css/components/feed.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feed.html" afterPath="$PROJECT_DIR$/feed.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +18,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="feed.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/components/feed.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="259" column="18" lean-forward="false" selection-start-line="259" selection-start-column="18" selection-end-line="259" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style-intro.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/components/style-intro.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/components/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
-              <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="134" column="110" lean-forward="false" selection-start-line="134" selection-start-column="110" selection-end-line="134" selection-end-column="110" />
               <folding />
             </state>
           </provider>
@@ -50,8 +71,8 @@
       <file leaf-file-name="afrodita.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/afrodita.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="112" lean-forward="true" selection-start-line="21" selection-start-column="112" selection-end-line="21" selection-end-column="112" />
+            <state relative-caret-position="315">
+              <caret line="21" column="112" lean-forward="false" selection-start-line="21" selection-start-column="112" selection-end-line="21" selection-end-column="112" />
               <folding />
             </state>
           </provider>
@@ -82,19 +103,19 @@
         <option value="$PROJECT_DIR$/css/components/authorization.css" />
         <option value="$PROJECT_DIR$/admin/admin-css/admin.css" />
         <option value="$PROJECT_DIR$/admin/index.php" />
-        <option value="$PROJECT_DIR$/feed.html" />
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/admin/admin-css/admin-panel.css" />
         <option value="$PROJECT_DIR$/admin/js/main.js" />
         <option value="$PROJECT_DIR$/admin/admin.php" />
         <option value="$PROJECT_DIR$/css/components/services.css" />
-        <option value="$PROJECT_DIR$/css/components/feed.css" />
         <option value="$PROJECT_DIR$/css/components/afrodita.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/layout/fonts.css" />
         <option value="$PROJECT_DIR$/css/components/style-intro.css" />
         <option value="$PROJECT_DIR$/afrodita.html" />
         <option value="$PROJECT_DIR$/css/components/style.css" />
+        <option value="$PROJECT_DIR$/feed.html" />
+        <option value="$PROJECT_DIR$/css/components/feed.css" />
       </list>
     </option>
   </component>
@@ -127,7 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,7 +227,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,12 +343,13 @@
       <workItem from="1499463201762" duration="2890000" />
       <workItem from="1499537441756" duration="15216000" />
       <workItem from="1499619580410" duration="4133000" />
-      <workItem from="1499625495452" duration="162000" />
+      <workItem from="1499625495452" duration="718000" />
+      <workItem from="1499628078458" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51472000" />
+    <option name="totallyTimeSpent" value="52113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="152" y="49" width="928" height="771" extended-state="0" />
@@ -494,13 +516,6 @@
     <entry file="file://$PROJECT_DIR$/css/components/authorization.php" />
     <entry file="file://$PROJECT_DIR$/admin/sql.php" />
     <entry file="file://$PROJECT_DIR$/admin/index.php" />
-    <entry file="file://$PROJECT_DIR$/feed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="146" column="109" lean-forward="false" selection-start-line="146" selection-start-column="109" selection-end-line="146" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/js/jquery.js" />
     <entry file="file://$PROJECT_DIR$/admin/admin-css/admin.css" />
     <entry file="file://$PROJECT_DIR$/admin/js/main.js" />
@@ -521,14 +536,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin.php" />
-    <entry file="file://$PROJECT_DIR$/css/components/feed.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="200" column="24" lean-forward="false" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/components/afrodita.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
@@ -577,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/afrodita.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="112" lean-forward="true" selection-start-line="21" selection-start-column="112" selection-end-line="21" selection-end-column="112" />
+        <state relative-caret-position="315">
+          <caret line="21" column="112" lean-forward="false" selection-start-line="21" selection-start-column="112" selection-end-line="21" selection-end-column="112" />
           <folding />
         </state>
       </provider>
@@ -586,7 +593,23 @@
     <entry file="file://$PROJECT_DIR$/css/components/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="134" column="110" lean-forward="false" selection-start-line="134" selection-start-column="110" selection-end-line="134" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/feed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="259" column="18" lean-forward="false" selection-start-line="259" selection-start-column="18" selection-end-line="259" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -257,6 +257,7 @@
     text-transform: uppercase;
     color: white;
     border: none;
+    outline: none;
     border-radius: 3px;
     background: #1c1f1d
 }
