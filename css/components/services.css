@@ -1,7 +1,14 @@
+
+.main-services {
+    padding-bottom: 5px;
+}
+
 .main-services__caption {
-    margin-top: 13px;
+    margin: 0;
+    padding-top: 15px;
     font-family: "OpenSans-Bold";
     font-size: 43px;
+    font-stretch: ultra-condensed;
 }
 
 .main-services__body {
@@ -12,7 +19,7 @@
 }
 .main-services__body-element {
     margin-left: 42px;
-    margin-bottom: 50px;
+    margin-bottom: 48px;
     display: inline-block;
     width: 260px;
     min-height: 100%;
@@ -36,12 +43,12 @@
 }
 
 .main-services__text-caption {
-    margin-bottom: 10px;
     font-family: "OpenSans-Bold";
     font-size: 18px;
 }
 
 .main-services__text-item {
+    padding-top: 5px;
     font-size: 14px;
     line-height: 21px;
 }

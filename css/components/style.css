@@ -57,8 +57,8 @@ li {
 }
 
 .header-left {
-    margin-top: 29px;
     float: left;
+    padding-top: 29px;
 }
 
 .logo {
@@ -72,7 +72,7 @@ li {
 
 .header-right {
     float: right;
-    margin-top: 15px;
+    padding-top: 15px;
 }
 
 .contacts {
@@ -166,6 +166,11 @@ li {
 .navigation__list-item {
     margin-bottom: 27px;
 }
+
+.navigation__list-item:last-child {
+    margin: 0;
+}
+
 .navigation__list-link {
     position: relative;
     padding-left: 35px;
@@ -231,8 +236,7 @@ li {
 }
 
 .main-nav {
-    padding-top: 39px;
-    margin-bottom: 9px;
+    padding-top: 41px;
     font-family: "OpenSansLight-Italic";
     font-size: 14px;
 }
@@ -254,13 +258,29 @@ li {
     min-height: 76px;
     background-color: #191919
 }
+
+
+.footer-logo,
 .footer-left {
     float: left;
-    padding-top: 8px;
+}
+
+.footer-left {
+    padding: 10px 10px 0 0;
     width: 250px;
     height: 100%;
     font-size: 14px;
     color: white;
+}
+
+.footer-logo {
+    padding-top: 28px;
+    margin-left: 200px;
+}
+
+.footer-right {
+    padding-top: 16px;
+    float: right;
 }
 
 .footer-left__link {
@@ -272,17 +292,6 @@ li {
 .footer-left__name {
     font-family: "OpenSans-Bold";
     color: white;
-}
-.footer-logo {
-    float: left;
-    padding: 25px 0 0 200px;
-    top: 25px;
-    width: 160px;
-}
-
-.footer-right {
-    float: right;
-    padding-top: 12px;
 }
 
 .footer-right__caption {

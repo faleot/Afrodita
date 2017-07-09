@@ -198,11 +198,14 @@
 }
 
 .main-addfeed__label-value {
-    margin: 4px 0 0 1px;
+    margin: 4px 0 0 10px;
     display: inline-block;
     cursor: pointer;
 }
 
+.main-addfeed__label-value:nth-child(3) {
+    margin: 0;
+}
 
 #add__yes:checked + .main-addfeed__label-value,
 #add__no:checked + .main-addfeed__label-value {
