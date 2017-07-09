@@ -80,7 +80,7 @@ li {
 }
 
 .contacts__phone {
-    display: inline-block;
+    display: block;
     font-family: "OpenSans-Bold";
     font-size: 21px;
     color: white;
