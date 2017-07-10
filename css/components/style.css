@@ -5,14 +5,16 @@
     box-sizing: border-box;
 }
 
-html,
+html {
+    min-width: 1200px;
+    min-height: 700px;
+}
 body {
     font-family: "OpenSans-Light";
     font-weight: 300;
     line-height: 1.42;
     height: 100%;
     width: 100%;
-    min-width: 1200px;
 }
 
 a {
@@ -31,7 +33,6 @@ li {
 .wrapper {
     position: relative;
     padding-bottom: 90px;
-    min-height: 1000px;
 }
 
 .container {
@@ -53,6 +54,7 @@ li {
 
 /* ----------Header---------- */
 .header {
+    width: 100%;
     height: 76px;
     background-color: #191919;
 }
