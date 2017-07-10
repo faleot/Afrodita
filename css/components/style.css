@@ -97,7 +97,9 @@ li {
 .contacts__popup:hover > .contacts__popup-block {
     visibility: visible;
     right: 0px;
-
+}
+.contacts__popup:hover > .contacts__popup-link {
+    color: rgba(248, 149, 19, 0.9);
 }
 
 .contacts__popup-link {

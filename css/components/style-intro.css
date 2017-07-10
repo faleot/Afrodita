@@ -1,8 +1,4 @@
 /* General */
-@font-face {
-    font-family: "OpenSans-Bold";
-    src: url(../../fonts/OpenSans-Bold.ttf);
-}
 .intro {
     width: 100vw;
     height: 100vh;
