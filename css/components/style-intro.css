@@ -16,7 +16,8 @@
 
 .content {
     position: relative;
-    top: 190px;
+    top: 170px;
+    text-align: center;
 }
 /* General close */
 
@@ -31,21 +32,17 @@
 
 /* Link Buttom */
 .link {
-    margin: 0px auto;
-    width: 172px;
-    height: 45px;
-    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 3px;
     background: #f89513;
 }
 .link:hover {
     background: #131415;
 }
 .link__bottom  {
-    padding-top: 16px;
-    padding-bottom: 0px; 
-    display: block;
-    width: 100%;
-    height: 100%;
+    padding: 20px 21px 12px 21px;
+    display: inline-block;
     font-family: "OpenSans-Bold";
     text-transform: uppercase;
     font-size: 12px;

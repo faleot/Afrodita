@@ -1,4 +1,7 @@
 /* ----------Feed---------- */
+.main-feed {
+    padding-top: 10px;
+}
 .main-feed__caption {
     margin-top: 0;
     font-family: "OpenSans-Bold";
@@ -70,12 +73,7 @@
     display: inline-block;
 }
 
-.zero-size {
-    font-size: 0;
-}
-.zero-size__li {
-    font-size: 16px;
-}
+
 
 .main-feed__pages-link,
 .main-feed__pages-link_prev,
@@ -120,7 +118,7 @@
 
 /* ----------Add form---------- */
 .main-addfeed {
-    margin: 60px 0 57px 0;
+    margin: 60px 0 47px 0;
     padding: 50px 70px;
     width: 700px;
     min-height: 427px;
@@ -248,6 +246,7 @@
 .main-addfeed__submit {
     margin-top: 15px;
     float: right;
+    cursor: pointer;
     display: block;
     height: 45px;
     width: 126px;

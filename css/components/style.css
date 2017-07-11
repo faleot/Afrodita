@@ -122,8 +122,6 @@ li {
     top: 40px;
     visibility: hidden;
     z-index: 40;
-    width: 163px;
-    height: 70px;
     background: linear-gradient(to top, #fff 0%, #fff 100%);
     box-shadow: 0 0 10px black;
     border-radius: 5px;
@@ -155,21 +153,22 @@ li {
 }
 
 .contacts__popup-chedule,
-.contacts__popup-eat{
-    margin-left: 20px;
+.contacts__popup-eat {
+    width: 165px;
+    padding: 0 20px;
     font-size: 14px;
     line-height: 18px;
 }
 
 .contacts__popup-chedule {
-    margin-top: 12px;
-    border-bottom: 5px; 
-}
-
-.contacts__popup-chedule {
-    padding-bottom: 5px;
+    padding-top: 15px;
     font-family: "OpenSans-Bold";
     color: #f89513;
+}
+
+.contacts__popup-eat {
+    padding-top: 4px;
+    padding-bottom: 15px;
 }
 
 /* ----------Header close---------- */

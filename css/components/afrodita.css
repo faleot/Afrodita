@@ -91,9 +91,10 @@
 }
 .main-partners__list-item {
     margin-left: 105px;
+    margin-bottom: 20px;
     display: inline-block;
     width: 160px;
-    height: 100px;
+    height: 80px;
     text-align: center;
 }
 
@@ -102,7 +103,7 @@
 }
 
 .main-partners__list-item:nth-child(3n+1) {
-    margin: 0;
+    margin-left: 0;
 }
 
 .main-partners__list-img {
