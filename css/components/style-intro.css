@@ -1,4 +1,10 @@
 /* General */
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url(../../fonts/OpenSans-Bold.woff) format('woff');
+    font-weight: 300;
+}
+
 .intro {
     width: 100vw;
     height: 100vh;
@@ -16,8 +22,10 @@
 
 .content {
     position: relative;
-    top: 170px;
+    top: 50%;
+    left: 50%;
     text-align: center;
+    transform: translate(-50%, -50%);
 }
 /* General close */
 
